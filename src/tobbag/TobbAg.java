@@ -6,10 +6,10 @@ package tobbag;
  */
 public class TobbAg {
     public static void main(String[] args) {
-        kiir();
+        new TobbAg().kiir();
     }
 
-    private static void kiir() {
+    private void kiir() {
         System.out.println("");
     }
     
