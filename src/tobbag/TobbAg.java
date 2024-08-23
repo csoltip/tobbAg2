@@ -13,4 +13,7 @@ public class TobbAg {
         System.out.println("hello");
     }
     
+    private void nemKell(){
+        
+    }
 }
