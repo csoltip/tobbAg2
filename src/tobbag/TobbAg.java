@@ -10,7 +10,7 @@ public class TobbAg {
     }
 
     private void kiir() {
-        System.out.println("");
+        System.out.println("hello");
     }
     
 }
